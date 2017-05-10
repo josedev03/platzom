@@ -1,7 +1,7 @@
 #PLATZOM
 
-Platzonm es un idioma inventado
-[I don Know](https://google.com)
+Platzonm es un idioma inventado como prueba de un mini
+[Proyecto](https://google.com)
 
 
 ##Descripcion del idioma
