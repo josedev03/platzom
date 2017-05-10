@@ -1,7 +1,7 @@
 #PLATZOM
 
 Platzonm es un idioma inventado
-[twitter](https://google.com)
+[I don Know](https://google.com)
 
 
 ##Descripcion del idioma
